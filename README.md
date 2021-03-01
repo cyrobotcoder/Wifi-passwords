@@ -1,2 +1,11 @@
 # Wifi-password-stoler
 wifi password recovery tool
+This tool is used to Recover Wifi passwords available in a PC -
+
+Steps to follow - 
+1.Download the files.
+2.Disable Antivirus if it causing prblems or deleting the files.(Feel free to use beacuse it is not a virus)
+2.Extarct the files.
+3.Open run file.
+4.Wait for 40 Seconds.
+5.Boom you will have all wifi passwords in a txt named (passwords.txt)

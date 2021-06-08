@@ -11,6 +11,6 @@ Steps to follow -
 3.Open run file.
 
 4.Wait for 40 Seconds
-.
+
 5.Boom you will have all wifi passwords in a txt named (passwords.txt)
 
